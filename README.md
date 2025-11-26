@@ -52,7 +52,7 @@ I have a strong interest in **Machine Learning, Data Science, and Game Developme
 - Data cleaning, preprocessing, and feature engineering  
 - ML experimentation (Scikit-learn models)  
 - Jupyter Notebook workflow  
-🔗 [(Add GitHub link)](https://github.com/carmenkilbourne/supervised-learning-csv)]
+🔗 https://github.com/carmenkilbourne/supervised-learning-csv
 
 ---
 
@@ -61,7 +61,7 @@ I have a strong interest in **Machine Learning, Data Science, and Game Developme
 - Character selection & map selection  
 - Player movement, attacks, animations  
 - Game loop + update cycle  
-🔗 [https://github.com/carmenkilbourne/Trabajofinal_TPA]
+🔗 https://github.com/carmenkilbourne/Trabajofinal_TPA
 
 ---
 
@@ -74,7 +74,7 @@ I have a strong interest in **Machine Learning, Data Science, and Game Developme
 ---
 
 ## 📫 Contact
-- **LinkedIn:** [https://www.linkedin.com/in/carmen-elizabeth-kilbourne-mirabal-668217302/] 
+- **LinkedIn:** https://www.linkedin.com/in/carmen-elizabeth-kilbourne-mirabal-668217302/ 
 - **Email:** carmen.kilbourne@gmail.com  
 - **GitHub:** https://github.com/carmenkilbourne
 
