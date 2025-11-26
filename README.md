@@ -1,30 +1,83 @@
-# Hi, I'm Carmen Kilbourne 👋
+<h1 align="center">Hi, I'm Carmen Kilbourne 👋</h1>
 
-**Student | Aspiring Data Scientist | Nebrija University**
+<p align="center">
+  Student | Aspiring Data Scientist | Nebrija University  
+</p>
 
-Welcome to my GitHub! I’m currently studying Computer Engineering at Nebrija University, Madrid, with a passion for technology, problem-solving, and continuous learning.
+---
 
 ## 🚀 About Me
 
-- 🎓 **Education:** BSc in Computer Engineering, Nebrija University
-- 💻 **Tech Stack:** Python (Value Prediction & Data Science), Java (Object-Oriented Programming, Game Development)
-- 📚 **Learning:** Completing IBM’s Machine Learning for Data Scientists certification
-- 🕹️ **Projects:** Built a videogame in Java focusing on OOP principles; working on Python projects for predictive analytics
-- 🌟 **Interests:** Artificial Intelligence, Machine Learning, Game Development, Data Visualization
+Welcome to my GitHub! I’m a Computer Engineering student at **Nebrija University, Madrid**, passionate about technology, problem-solving, and continuous learning.
 
-## 🛠️ Skills
+I have a strong interest in **Machine Learning, Data Science, and Game Development**, and I enjoy building projects that help me grow both technically and creatively.
 
-- **Programming Languages:** Python, Java, C++
-- **Concepts:** OOP, Algorithms, Data Analysis, Predictive Modeling
-- **Tools & Frameworks:** Jupyter Notebook, Git, Pandas, Scikit-learn
-- **Languages:** Native English & Spanish
+---
+
+## 🎓 Education
+- **BSc in Computer Engineering — Nebrija University (Madrid)**
+
+---
+
+## 🔧 Tech Stack
+
+### **Programming Languages**
+- Python (Value Prediction, Data Science, Predictive Modeling)  
+- Java (Object-Oriented Programming, Game Development)  
+- C++  
+
+### **Concepts**
+- OOP  
+- Algorithms  
+- Data Analysis  
+- Predictive Modeling  
+
+### **Tools & Libraries**
+- Jupyter Notebook  
+- Git & GitHub  
+- Pandas  
+- NumPy  
+- Scikit-learn  
+
+### **Languages**
+- 🇬🇧 English (Native)  
+- 🇪🇸 Spanish (Native)
+
+---
+
+## 📂 Projects
+
+### 🧠 **Machine Learning / Data Science Projects (Python)**
+- Predictive analytics and value prediction  
+- Data cleaning, preprocessing, and feature engineering  
+- ML experimentation (Scikit-learn models)  
+- Jupyter Notebook workflow  
+🔗 *(Add GitHub link)*
+
+---
+
+### 🕹️ **Java 2D Videogame — OOP Focused**
+- Object-oriented architecture  
+- Character selection & map selection  
+- Player movement, attacks, animations  
+- Game loop + update cycle  
+🔗 *(Add GitHub link)*
+
+---
 
 ## 🌱 Current Focus
+- Completing **IBM’s Machine Learning for Data Scientists** certification  
+- Mastering ML concepts and applying them to real-world data  
+- Designing engaging games using robust OOP in Java  
+- Building foundational projects for Data Science & AI roles  
 
-- Mastering machine learning concepts and applying them to real-world data science problems
-- Designing engaging games with robust object-oriented design in Java
+---
 
 ## 📫 Contact
+- **LinkedIn:** *(Add link)*  
+- **Email:** carmen.kilbourne@gmail.com  
+- **GitHub:** https://github.com/yourusername  
 
-- [LinkedIn](https://www.linkedin.com/in/carmen-elizabeth-kilbourne-mirabal-668217302/)
-- 📧 Email: carmen.kilbourne@gmail.com
+---
+
+⭐ *Thanks for stopping by! I’m always open to learning, collaboration, and internship opportunities in Data Science, AI, and Software Development.*  
